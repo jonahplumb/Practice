@@ -3,7 +3,6 @@
 import math
 
 num = 600851475143
-largestPrime = 0
 i = 2
 while i * i < num:
     while num % i == 0:
