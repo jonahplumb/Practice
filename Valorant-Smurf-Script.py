@@ -11,8 +11,7 @@ time.sleep(8)
 # Delete the #Username & #Password and enter your Username and Password,
 pyautogui.typewrite(#Username\t") #Entering our username 
 pyautogui.typewrite(#Password\n") #Entering our password
-# Sometimes to riot client requires players to press "Play"
-# Dependent on 1920x1080
+  
 time.sleep(2)
 pyautogui.click(x=372,y=911)
 # Allow Valorant to load, then clicking in the lower right
