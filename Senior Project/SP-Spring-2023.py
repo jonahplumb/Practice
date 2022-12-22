@@ -214,7 +214,7 @@ def main():
     args = parser.parse_args()
 
 
-# If statements to continue program based on user input for hashes, not separated, only want one program output. 
+# If statements to continue program based on user input, not separated, only want one program output. 
     if args.sha256: # Generate SHA256 Hash
         generateHashSHA256(args.sha256)
     elif args.md5: # Generate MD5 Hash
