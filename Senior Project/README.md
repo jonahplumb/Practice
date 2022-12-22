@@ -1,4 +1,4 @@
-# SP 2022 (*maybe unapproved)
+# SP Spring 2023 (*maybe unapproved)
 
 # Examples
 Supported hashing algorithms: 
