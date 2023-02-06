@@ -1,4 +1,4 @@
-# SP Spring 2023 Idea
+# DENIED SENIOR PROJECT IDEA
 
 # Examples
 Supported hashing algorithms: 
